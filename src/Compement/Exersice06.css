@@ -1,0 +1,22 @@
+.form {
+  margin: 20px;
+  width: 150px;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.button {
+  margin-top: 10px;
+  padding: 5px 15px;
+  border: 1px solid rgb(103, 237, 103);
+  background-color: rgb(103, 237, 103);
+}
+.input {
+  margin: 0 10px;
+}
